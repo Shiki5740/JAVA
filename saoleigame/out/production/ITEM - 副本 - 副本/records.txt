@@ -1,0 +1,7 @@
+beginner,123,24
+beginner,123,31
+beginner,123,64
+beginner,123,67
+beginner,shiki,84
+beginner,123,154
+intermediate,HYH,253
